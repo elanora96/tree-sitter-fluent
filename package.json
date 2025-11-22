@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "eslint": "^5.0.0",
-    "tree-sitter-cli": "^0.25.10"
+    "tree-sitter-cli": "^0.25.10",
+    "vows": "^0.8.3"
   }
 }
